@@ -1,0 +1,33 @@
+<levels>
+    <level>
+        <number>1</number>   <!-- level number -->
+        <columns>3</columns> <!-- number of columns -->
+        <rows>2</rows>       <!-- number of rows -->
+        <pobliq>40</pobliq>  <!-- probability of putting of a oblique line -->
+        <pobver>50</pobver>  <!-- probability of skip of a vertical line -->
+        <string name="hi">"bue"</string>
+    </level>
+
+    <level>
+        <number>2</number>
+        <columns>3</columns>
+        <rows>2</rows>
+        <pobliq>100</pobliq>
+        <pobver>0</pobver>
+          <string name="hi">"bue"</string>
+    </level>
+
+
+    <!-- 3x3 -->
+    <level>
+        <number>3</number>
+        <columns>3</columns>
+        <rows>3</rows>
+        <pobliq>0</pobliq>
+        <pobver>100</pobver>
+          <string name="hi">"bue"</string>
+    </level>
+
+
+
+</levels>

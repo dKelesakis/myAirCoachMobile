@@ -1,0 +1,27 @@
+<levels>
+    <level>
+        <number>1</number>   <!-- level number -->
+        <columns>3</columns> <!-- number of columns -->
+        <rows>2</rows>       <!-- number of rows -->
+        <pobliq>40</pobliq>  <!-- probability of putting of a oblique line -->
+        <pobver>50</pobver>  <!-- probability of skip of a vertical line -->
+        <category>About Asthma</category>     <!-- category -->
+    </level>
+    <level>
+        <number>2</number>   <!-- level number -->
+        <columns>3</columns> <!-- number of columns -->
+        <rows>2</rows>       <!-- number of rows -->
+        <pobliq>40</pobliq>  <!-- probability of putting of a oblique line -->
+        <pobver>50</pobver>  <!-- probability of skip of a vertical line -->
+        <category>About Asthma</category>     <!-- category -->
+    </level>
+    <level>
+        <number>3</number>   <!-- level number -->
+        <columns>3</columns> <!-- number of columns -->
+        <rows>2</rows>       <!-- number of rows -->
+        <pobliq>40</pobliq>  <!-- probability of putting of a oblique line -->
+        <pobver>50</pobver>  <!-- probability of skip of a vertical line -->
+        <category>About Asthma</category>     <!-- category -->
+    </level>
+
+</levels>
